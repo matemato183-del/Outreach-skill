@@ -32,10 +32,10 @@ Most outreach tools help you send more messages. This one helps you send better 
 ## Before / After
 
 **Without the skill:**
-> Hey Jonas, I'm a video editor and I'd love to work with you. I make professional videos for social media and think I could help you get more reach. I have experience with coaches and would be happy to hear from you. Feel free to reach out! 😊
+Hi Sarah, my name is Alex and I'm a freelance web designer. I specialize in creating beautiful, modern websites for businesses. I think your company could benefit from a website redesign and I would love to work with you. Please don't hesitate to contact me if you're interested. Looking forward to hearing from you!
 
 **With the skill:**
-> Hey Jonas, you come across naturally on camera — that's the hardest part, and most coaches never get there. The problem is your Reels aren't showing that right now. I'm Mateo, I do planning and editing for coaches on Instagram so all you have to do is film. Last year I helped another coach go from 10k to 30k doing exactly that. Would you be open to giving it a shot? 🎾
+Hey Sarah, I noticed [Company] just rebranded — that's usually when the website becomes the bottleneck. I'm Alex, I build conversion-focused sites for B2B companies. Last month I helped a similar agency cut their bounce rate by 40% in 6 weeks. Worth a quick look?
 
 ## Installation
 
@@ -44,6 +44,7 @@ Most outreach tools help you send more messages. This one helps you send better 
 ```
 ~/.claude/skills/outreach/SKILL.md
 ```
+sometimes the .claude folder is hard to find... depending on your operating system you'll need a keyboard shortcut, just search it online...
 3. Restart Claude Code
 
    
