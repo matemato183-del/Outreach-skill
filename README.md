@@ -32,10 +32,10 @@ Most outreach tools help you send more messages. This one helps you send better 
 ## Before / After
 
 **Without the skill:**
-Hi Sarah, my name is Alex and I'm a freelance web designer. I specialize in creating beautiful, modern websites for businesses. I think your company could benefit from a website redesign and I would love to work with you. Please don't hesitate to contact me if you're interested. Looking forward to hearing from you!
+>Hi Sarah, my name is Alex and I'm a freelance web designer. I specialize in creating beautiful, modern websites for businesses. I think your company could benefit from a website redesign and I would love to work with you. Please don't hesitate to contact me if you're interested. Looking forward to hearing from you!
 
 **With the skill:**
-Hey Sarah, I noticed [Company] just rebranded — that's usually when the website becomes the bottleneck. I'm Alex, I build conversion-focused sites for B2B companies. Last month I helped a similar agency cut their bounce rate by 40% in 6 weeks. Worth a quick look?
+>Hey Sarah, I noticed [Company] just rebranded — that's usually when the website becomes the bottleneck. I'm Alex, I build conversion-focused sites for B2B companies. Last month I helped a similar agency cut their bounce rate by 40% in 6 weeks. Worth a quick look?
 
 ## Installation
 
