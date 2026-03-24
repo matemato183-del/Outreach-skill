@@ -46,6 +46,8 @@ Most outreach tools help you send more messages. This one helps you send better 
 ```
 3. Restart Claude Code
 
+   Or simply copy the link to this page and ask your AI to install it for you :)
+
 **No setup required.** No tools, APIs, or additional installs needed. Works immediately after installation.
 
 ## Usage
