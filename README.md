@@ -1,5 +1,4 @@
-# Outreach — Skill. Turn Strangers into Clients
-
+# Outreach — Skill
 Most cold messages get ignored. This skill fixes that.
 
 A skill for [Claude Code](https://claude.ai/code), [OpenClaw](https://openclaw.ai/), [Cursor](https://cursor.com/), and other compatible CLI tools. specialized in B2B cold outreach, built around the psychology of why people reply to strangers. It handles everything from first-touch client prospecting to follow-ups, re-pitches, complaints, sponsorship asks, and creator DMs — on any channel, in any language.
